@@ -1,0 +1,26 @@
+p {
+  margin: 0px;
+  font-family: arial;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+}
+
+.email-para {
+  margin-bottom: 5px;
+}
+
+input {
+  width: 345px;
+  height: 24px;
+  margin-bottom: 15px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 12px 132px;
+  background-color: rgb(20, 88, 184);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+}
